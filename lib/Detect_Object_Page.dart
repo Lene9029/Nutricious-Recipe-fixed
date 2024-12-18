@@ -39,7 +39,7 @@ class _HomeScreenState extends State<DetectObjectPage> {
     try {
       _objectModel = await FlutterPytorch.loadObjectDetectionModel(
         pathObjectDetectionModel,
-        61,
+        64,
         640,
         640,
         labelPath: "assets/labels/labels.txt",

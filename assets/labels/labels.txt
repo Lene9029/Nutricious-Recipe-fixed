@@ -1,61 +1,64 @@
 ampalaya
 bangus
-bay-leaves
+bay leaves
 beef
-beef-intestines
-beef-kidney
-beef-ribs
-beef-tail
-beef-tripe
+beef intestines
+beef kidney
+beef ribs
+beef tail
+beef tripe
 bokchoy
 breadcrumbs
 broccoli
-brown-sugar
+brown sugar
 butter
 cabbage
 calamansi
 canola oil
-cashew-nuts
+cashew nuts
 cauliflower
 cellophane noodles
 chayote
 chicharon
-chicken-bouillon-granules
+chicken
+chicken bouillon granules
 chickpeas
 chorizo
 cloves
 corn
-dried-shitake-mushrooms
+dried shitake mushrooms
 egg
 eggplant
 garlic
 ginger
-green-beans
+green beans
 ham
+hotdog
 kangkong
 lemon
-malungay-leaves
-mung-beans
+mackerel
+malungay leaves
+mung beans
 okra
 olive
 onion
 pata
-pork-heart
-pork-liver
-pork-loin 
-pork-lung
-pork-meat
-pork-ribs
-pork-skin
+pork heart
+pork liver
+pork loin
+pork lung
+pork meat
+pork ribs
+pork skin
 potato
-puso-ng-saging
+puso ng saging
 raisins
-red-chili-pepper
+red bell pepper
+red chili pepper
 rice
-saba-banana
-sesame-seeds
+saba banana
+sesame seeds
 singkamas
 sitaw
-spinach
-spring-onions
+spring onions
 tomato
